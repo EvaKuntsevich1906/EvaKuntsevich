@@ -9,6 +9,6 @@ I am a Full Stack Developer from Belarus.
    ✔️ Skilled in back-end and front-end development with Node.js, React and TypeScript.
 
 
-💬 Ask me about anything, I am happy to help.
+💬 Ask me about anything, I am happy to help
 
 📫How to reach me: evakuntsevisch19@gmail.com
