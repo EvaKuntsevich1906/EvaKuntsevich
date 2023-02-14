@@ -1,4 +1,4 @@
-# Hi there, I'm Eva Kuntsevich  
+# Hi there, I'm Eva Kuntsevich  😄 
 
 I am a Full Stack Developer from Belarus.
 
