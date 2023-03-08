@@ -14,4 +14,4 @@ I am a Full Stack Developer from Belarus.
 📫How to reach me: evakuntsevisch19@gmail.com
 
 
-Mу linkedin: https://www.linkedin.com/in/eva-kuntsevich
+
