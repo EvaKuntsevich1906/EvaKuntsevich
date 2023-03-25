@@ -1,8 +1,8 @@
 # Hi there, I'm Eva Kuntsevich  😄 
 
-I am a Full Stack Developer from Belarus.
+I am a Full Stack Developer from Belarus.😄 
 
-😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
    ✔️ JavaScript developer with 1,5 year of experience in software application development.
 
