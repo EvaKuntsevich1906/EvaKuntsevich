@@ -4,7 +4,7 @@ I am a Full Stack Developer from Belarus.😄
 
  I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-   ✔️ JavaScript developer with 1,5 year of experience in software application development.
+   ✔️ JavaScript and TypeScript developer with 1,5 year of experience in software application development.
 
    ✔️ Skilled in back-end and front-end development with Node.js, React and TypeScript.
 
